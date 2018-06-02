@@ -1,0 +1,14 @@
+let text = `
+{
+	"games": [
+		{
+			"name": "Mario Tennis Aces",
+			"imageSets": [
+				{"folder": "MTA", "name": "MTA"},
+			],
+			"defaultChars": ["mario","luigi","peach","bowser","yoshi","rosalina","bowserjr","wario","dk","toad","toadette","boo","spike","chomp","waluigi","daisy"],
+			"extraChars": []
+		}
+	]
+}
+`;
